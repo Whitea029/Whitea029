@@ -23,6 +23,7 @@ Love the flexibility and control it provides.
 </p>
 
 ## 😆Contact with me
+
 QQ:1664915115
 
 Email:whitea0029@gmail.com
@@ -31,5 +32,7 @@ Blog:https://blog.whitea.fun
 
 ## 🌟My Github Status 
 
-<br><a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Whitea029&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitea029&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a><br>
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Whitea029&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitea029&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
