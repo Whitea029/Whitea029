@@ -5,14 +5,16 @@
 </div>
 
 ## 🚀 About Me
-**🎓 CS Student**
+**🎓 CS Student:**
 Currently learning and exploring new technologies in computer science.
 
-**💡 Collaborative Learner**
+**💡 Collaborative Learner:**
 Always looking for opportunities to learn and work with others.
 
-**🐧 Arch Linux User**
+**🐧 Arch Linux User:**
 Love the flexibility and control it provides.
+
+💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**
 
 ## 🛠 Skills
 
