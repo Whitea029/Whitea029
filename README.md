@@ -19,7 +19,7 @@ Love the flexibility and control it provides.
 ## 🛠 Skills
 
 <p>
-  <a href="https://blog.whitea.fun">
+  <a href="https://whitea029.github.io/">
     <img src="https://skillicons.dev/icons?i=java,go,arch,spring,docker,mysql,postgres,redis,git,idea,vscode" />
   </a>
 </p>
