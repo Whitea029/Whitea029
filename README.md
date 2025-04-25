@@ -1,9 +1,4 @@
-<div style="text-align: left;">
-  <a href="https://whitea029.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World%22);Hi%2C%20I'm%20Whitea029!👋&size=27" alt="Typing SVG" />
-  </a>
-</div>
-
+# 👋🏻 Hi, there's Whitea
 ## 🚀 About Me
 **🎓 CS Student:**
 Currently learning and exploring new technologies in computer science.
