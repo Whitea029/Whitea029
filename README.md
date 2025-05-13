@@ -1,4 +1,4 @@
-# 👋🏻 Hi, there's Whitea
+[![Header](https://raw.githubusercontent.com/Whitea029/Whitea029/master/github-header-img.png "Header")](https://whitea029.github.io/)
 ## 🚀 About Me
 **🎓 CS Student:**
 Currently learning and exploring new technologies in computer science.
