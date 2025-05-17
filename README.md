@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Whitea029/Whitea029/master/github-header-img.png "Header")](https://whitea029.github.io/)
 ## 🚀 About Me
 **🎓 CS Student:**
-Currently learning and exploring new technologies in computer science.
+Currently learning and exploring new technologies in computer science **(Sophomore undergraduate student)**.
 
 **💡 Collaborative Learner:**
 Always looking for opportunities to learn and work with others.
@@ -9,7 +9,7 @@ Always looking for opportunities to learn and work with others.
 **🐧 Arch Linux User:**
 Love the flexibility and control it provides.
 
-💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**
+💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**, **I’m looking for a regular internship in Go development.** 😭
 
 ## 🛠 Skills
 
