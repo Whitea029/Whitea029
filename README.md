@@ -13,11 +13,7 @@ Love the flexibility and control it provides.
 
 ## 🛠 Skills
 
-<p>
-  <a href="https://whitea029.github.io/">
-    <img src="https://skillicons.dev/icons?i=java,go,arch,spring,docker,mysql,postgres,redis,git,idea,vscode" />
-  </a>
-</p>
+![Skills](https://skills.syvixor.com/api/icons?i=go,java,archlinux,docker,kubernetes,otel,spring,mysql,redis,git,goland,intellijidea,vscode)
 
 ## 😆Contact with me
 
