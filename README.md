@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Whitea029/Whitea029/master/github-header-img.png "Header")](https://whitea029.github.io/)
 
-![](https://komarev.com/ghpvc/?username=Whitea029&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=Whitea029&color=D8DCF2)
 
 ## 🚀 About Me
 **🎓 CS Student:** Currently learning and exploring new technologies in computer science **(Sophomore undergraduate student)**.
