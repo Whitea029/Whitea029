@@ -1,13 +1,13 @@
 [![Header](https://raw.githubusercontent.com/Whitea029/Whitea029/master/github-header-img.png "Header")](https://whitea029.github.io/)
+
+![](https://komarev.com/ghpvc/?username=Whitea029&color=ff69b4)
+
 ## 🚀 About Me
-**🎓 CS Student:**
-Currently learning and exploring new technologies in computer science **(Sophomore undergraduate student)**.
+**🎓 CS Student:** Currently learning and exploring new technologies in computer science **(Sophomore undergraduate student)**.
 
-**💡 Collaborative Learner:**
-Always looking for opportunities to learn and work with others.
+**💡 Collaborative Learner:** Always looking for opportunities to learn and work with others.
 
-**🐧 Arch Linux User:**
-Love the flexibility and control it provides.
+**🐧 Arch Linux User:** Love the flexibility and control it provides.
 
 💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**, **I’m looking for a regular internship in Go development.** 😭
 
