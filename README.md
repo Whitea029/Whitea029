@@ -13,7 +13,7 @@
 
 ## 🛠 Skills
 
-![Skills](https://skills.syvixor.com/api/icons?i=go,java,archlinux,docker,kubernetes,otel,spring,mysql,redis,git,goland,intellijidea,vscode)
+![Skills](https://skills.syvixor.com/api/icons?i=go,java,archlinux,docker,kubernetes,otel,spring,mysql,redis,git,vscode,macos)
 
 ## 😆Contact with me
 
