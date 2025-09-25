@@ -9,7 +9,9 @@
 
 **🐧 Arch Linux User:** Love the flexibility and control it provides.
 
-💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**. **[Some offers I got](./offers/offers.md)**
+💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**. 
+
+**[Some offers I got](./offers/offers.md)**
 
 ## 🛠 Skills
 
