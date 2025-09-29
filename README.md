@@ -3,15 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=Whitea029&color=D8DCF2)
 
 ## 🚀 About Me
-**🎓 CS Student:** Currently learning and exploring new technologies in computer science **(Sophomore undergraduate student)**.
-
-**💡 Collaborative Learner:** Always looking for opportunities to learn and work with others.
-
-**🐧 Arch Linux User:** Love the flexibility and control it provides.
+**🎓 CS Student:** I am a Computer Science student at NJUPT (Qingyou Studio, Class of 2027), passionate about open-source and backend development.
 
 💼 Currently working at **[Qingyou Studio](https://qingyou.studio/)**. 
 
-**[Some offers I got](./offers/offers.md)**
+**💡 [Some offers I got](./offers/offers.md)**
 
 ## 🛠 Skills
 
