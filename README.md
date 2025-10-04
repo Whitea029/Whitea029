@@ -7,10 +7,6 @@
 
 **💼 [Some offers I got](./offers/offers.md)**
 
-## 🛠 Skills
-
-![Skills](https://skills.syvixor.com/api/icons?i=go,java,archlinux,docker,kubernetes,otel,spring,mysql,redis,git,vscode,macos)
-
 ## 😆Contact with me
 
 QQ:1664915115
