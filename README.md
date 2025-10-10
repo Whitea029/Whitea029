@@ -1,5 +1,6 @@
+## 👋Hi! This's Whitea
 
-**🎓 CS Student:** I am a Computer Science student at **NJUPT** (**Qingyou Studio, Class of 2027**), passionate about open-source and backend development.
+🎓 I am a Computer Science student at **NJUPT** (**Qingyou Studio, Class of 2027**), passionate about open-source and backend development.
 
 **💼 [Some offers I got](./offers/offers.md)** 
 
