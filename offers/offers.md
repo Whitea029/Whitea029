@@ -1,6 +1,6 @@
-# Offers
+# Honours
 
-## 日常实习
+## 日常实习 Offers
 
 ### Tencent
 
@@ -27,3 +27,9 @@
 [Cloud团队 Golang开发实习生](https://cloud.nebula-graph.io/)
 
 ![NebulaGraph](./nebula.png "NebulaGraph")
+
+## OpenSource
+
+### 2025 OSPP
+
+![2025OSPP](./2025OSPP.jpg)
