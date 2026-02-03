@@ -1,24 +1,18 @@
-## 👋Hi! This's Whitea
+## 👋你好！我是 Whitea
 
-🎓 I am a Computer Science student at **NJUPT** (**Qingyou Studio, Class of 2027**), passionate about open-source and backend development.
+🎓 我是 **NJUPT**（**青柚工作室，2027 届**）的计算机科学学生，热爱开源与 Web 开发。
 
-**💼 [Some honours I got](./offers/offers.md)** 
+**💼 [我获得的一些荣誉](./offers/offers.md)**
 
-**💡 [My Personal Blog](https://whitea.dpdns.org/)**
+**💡 [我的个人博客](https://whitea.dpdns.org/)**
 
-**🧑‍💻 Experience**
+**🧑‍💻 个人经历**
 
-- **Tencent WXG** · Open Platform · Mini Program · Backend Developer Intern  
-  *Jan 2026 – Present*  
-  Backend development intern for Tencent WXG Open Platform Mini Program services.
-
-- **Tencent IEG** · Game Security · Backend Developer Intern  
-  *Oct 2025 – Jan 2026*  
-  Backend development internship in the Game Security team at Tencent IEG.
-  
-- **NebulaGraph Cloud Team** · Golang Developer Intern  
-  *Jul 2025 – Sep 2025*  
-  Backend development internship in the NebulaGraph Cloud team, focusing on Go-based services.
+| 时间 | 经历 |
+| --- | --- |
+| 2026 年 1 月 – 至今 | **腾讯 WXG** · 开平小程序 · 后台开发实习生 |
+| 2025 年 10 月 – 2026 年 1 月 | **腾讯 IEG** · 游戏安全 · 后台开发实习生 |
+| 2025 年 7 月 – 2025 年 9 月 | **Vesoft NebulaGraph** · Cloud 团队 · Golang 开发实习生 |
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Whitea029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
