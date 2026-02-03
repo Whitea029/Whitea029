@@ -6,6 +6,8 @@
 
 [IEG](https://ieg.tencent.com/2023/index.html) 游戏安全 后台开发实习生
 
+[WXG](https://open.weixin.qq.com/) 开放平台小程序 后台开发实习生
+
 ![Tencent](./tencent.png "Tencent")
 
 
