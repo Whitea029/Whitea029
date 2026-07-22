@@ -1,12 +1,22 @@
 # Honours
 
+## 暑期实习 Offers
+
+### Tencent
+
+[WXG](https://open.weixin.qq.com/) 开放平台小程序 后台开发实习生
+
+### Shanghai AI Lab
+
+技术平台 后端开发实习生
+
+![AI Lab](./94210b04411ccdd12ee4e79788ba7cc6.png "AI Lab")
+
 ## 日常实习 Offers
 
 ### Tencent
 
 [IEG](https://ieg.tencent.com/2023/index.html) 游戏安全 后台开发实习生
-
-[WXG](https://open.weixin.qq.com/) 开放平台小程序 后台开发实习生
 
 ![Tencent](./tencent.png "Tencent")
 
