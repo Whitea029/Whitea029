@@ -1,6 +1,14 @@
 # Honours
 
-## 暑期实习 Offers
+## 2026 秋季招聘 Offers
+
+### PDD
+
+[拼多多 PDD](https://www.pinduoduo.com/) 基础团队 Agent开发工程师
+
+![PDD](./PDD.png)
+
+## 2026 暑期实习 Offers
 
 ### Tencent
 
