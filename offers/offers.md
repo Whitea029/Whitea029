@@ -1,6 +1,6 @@
 # Honours
 
-## 2026 秋季招聘 Offers
+## 2026 秋季校园招聘 Offers
 
 ### PDD
 
