@@ -4,7 +4,7 @@
 
 ### PDD
 
-[拼多多 PDD](https://www.pinduoduo.com/) 基础团队 Agent开发工程师
+[拼多多 PDD](https://www.pinduoduo.com/) 基础团队 Agent研发工程师
 
 ![PDD](./PDD.png)
 
