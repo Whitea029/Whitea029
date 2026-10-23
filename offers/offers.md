@@ -2,6 +2,12 @@
 
 ## 2026 秋季校园招聘 Offers
 
+### Tencent
+
+[小微小程序 Agent](https://xiaowei.weixin.qq.com/) 开平小程序 应用研究转正
+
+<img width="893" height="137" alt="image" src="https://github.com/user-attachments/assets/e6ca2fd6-1b8e-4792-a6c7-213da61e82d6" />
+
 ### PDD
 
 [拼多多 PDD](https://www.pinduoduo.com/) 基础团队 Agent研发工程师
@@ -12,7 +18,7 @@
 
 ### Tencent
 
-[WXG](https://open.weixin.qq.com/) 开放平台小程序 后台开发实习生
+[WXG](https://open.weixin.qq.com/) 开平小程序 应用研究实习生
 
 ### Shanghai AI Lab
 
