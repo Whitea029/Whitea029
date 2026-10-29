@@ -4,7 +4,7 @@
 
 ### Tencent
 
-[小微小程序 Agent](https://xiaowei.weixin.qq.com/) 开平小程序 应用研究转正
+[小微小程序 Agent](https://github.com/wechat-miniprogram/ai-mode-demo/) 开平小程序 应用研究转正
 
 <img width="893" height="137" alt="image" src="https://github.com/user-attachments/assets/e6ca2fd6-1b8e-4792-a6c7-213da61e82d6" />
 
